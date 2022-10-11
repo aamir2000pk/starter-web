@@ -18,5 +18,7 @@ Adding GIt Comparison of Github Lectures
 ## GITHub Content	
 github comparison with repo files
 
-
+## Contrubution 
+   Fork the repo and raise pull request for review`:x
+   
 
