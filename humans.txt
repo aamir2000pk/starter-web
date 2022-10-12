@@ -18,3 +18,4 @@
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAK
     Test Merge Conflicts & Resolution
+    Technical Director
