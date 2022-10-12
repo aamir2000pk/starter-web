@@ -8,7 +8,6 @@
 # THANKS
 
     Muhammad Aamir
-    aamir@gmail.com
 
 
 # TECHNOLOGY COLOPHON
