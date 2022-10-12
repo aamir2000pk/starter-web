@@ -15,3 +15,4 @@
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAK
     Docker, Java Programming
+    Testing commit -a without -am
