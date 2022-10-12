@@ -14,6 +14,7 @@ This is the famous Devops Traning
 
 ## Git Comparisons 
 Adding GIt Comparison of Github Lectures
+Adding Git Rebase Lectures and Git Advance Part
 
 ## GITHub Content	
 github comparison with repo files
