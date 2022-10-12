@@ -6,7 +6,7 @@
     <name> -- Aamir  Rebase-- <twitter>
 
 # THANKS
-   Thank to my Teacher	
+   Thank to my Teacher for GITHUb Rebase Advance Lecture.	
 
     Muhammad Aamir
 
