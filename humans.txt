@@ -7,6 +7,7 @@
 
 # THANKS
    Thank to my Teacher for GITHUb Rebase Advance Lecture.	
+<<<<<<< HEAD
 	Modify befor rebase
 
     Muhammad Aamir
