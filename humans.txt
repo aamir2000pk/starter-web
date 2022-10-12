@@ -7,8 +7,10 @@
 
 # THANKS
    Thank to my Teacher for GITHUb Rebase Advance Lecture.	
+	Modify befor rebase
 
     Muhammad Aamir
+    Technical Director
 
 
 # TECHNOLOGY COLOPHON
