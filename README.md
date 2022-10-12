@@ -3,7 +3,8 @@
 This is Git Project. Which we are using sample project
 
 ## Introduction 
-A lot of Lectures are already submitted
+A lot of Lectures are already submitted.
+This is Rebase Lecture.
 
 ## Purpose
 
