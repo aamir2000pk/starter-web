@@ -22,3 +22,4 @@ Some Changes in local
     jQuery, Modernizr, AJAK
     Test Merge Conflicts & Resolution
     Technical Director
+    Devloper
